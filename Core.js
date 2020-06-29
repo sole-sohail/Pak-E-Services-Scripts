@@ -1,3 +1,14 @@
+//SAMPLE INJECTION IS BELOW
+
+
+//var script = document.createElement('script');
+//script.id = "pak_e_services_script";
+//script.src = "https://raw.githubusercontent.com/sole-sohail/Pak-E-Services-Scripts/master/Core.js";
+//script.features = "responsive,removeads";
+
+//document.head.appendChild(script); 
+
+
 var features = [];
 
 (function (url, position, callback) {
